@@ -74,6 +74,7 @@
 - [A Survey on Knowledge Graphs: Representation, Acquisition and Applications](https://arxiv.org/abs/2002.00388 "A Survey on Knowledge Graphs: Representation, Acquisition and Applications")
 - [Core techniques of question answering systems over knowledge bases: a survey](http://wdaqua.eu/assets/publications/2017_KAIS.pdf)
 - [Introduction to Neural Network based Approaches for Question Answering over Knowledge Graphs](https://arxiv.org/abs/1907.09361)
+- [Machine Knowledge: Creation and Curation of Comprehensive Knowledge Bases](https://arxiv.org/pdf/2009.11564.pdf). 
 
 #### 深度学习(Deep Learning)
 
